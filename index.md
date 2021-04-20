@@ -26,3 +26,12 @@ Java Scanner Application built in Repl. Spring 2021.
 ![Image of Running Game](https://github.com/macythompson/programmingportfolio/blob/gh-pages/images/MadlibsApp.png?raw=true)
 
 Source code available [here](https://github.com/macythompson/programmingportfolio/tree/gh-pages/src/MadlibApp/MadlibApp)
+
+
+
+### Number Guessing Game
+Java Scanner Application built in Repl. Spring 2021.
+
+![Image of Running Game](https://github.com/macythompson/programmingportfolio/blob/gh-pages/images/NumberGuessingGame.png?raw=true)
+
+Source code available [here](https://github.com/macythompson/programmingportfolio/tree/gh-pages/src/NumberGuessingGame)
