@@ -17,3 +17,12 @@ OOP GUI Calculator built in the Processing environment. Fall 2020.
 ![Image of Running Game](https://github.com/macythompson/programmingportfolio/blob/gh-pages/images/Screen%20Shot%202021-04-20%20at%208.00.02%20AM.png?raw=true)
 
 Source code available [here](https://github.com/macythompson/programmingportfolio/tree/gh-pages/src/Calculator)
+
+
+
+### MadLibs App
+Java Scanner Application built in Repl. Spring 2021.
+
+![Image of Running Game](https://github.com/macythompson/programmingportfolio/blob/gh-pages/images/MadlibsApp.png?raw=true)
+
+Source code available [here](https://github.com/macythompson/programmingportfolio/tree/gh-pages/src/MadlibApp/MadlibApp)
