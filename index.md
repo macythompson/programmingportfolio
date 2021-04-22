@@ -5,7 +5,7 @@
 ### SpaceGame
 OOP game built in the Processing environment. Winter of 2020
 
-![Image of Running Game](https://github.com/macythompson/programmingportfolio/blob/gh-pages/images/SpaceGame.png)
+![Image of Running Game](https://github.com/macythompson/programmingportfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
 
 Source code available [here](https://github.com/macythompson/programmingportfolio/tree/gh-pages/src/SpaceGame2021)
 
